@@ -1,6 +1,6 @@
 h1,h2,h3,h4{
-  font size 64px;
+  font-size: 64px;
   color: blue;
-  underlined;
-  uppercase;
+  text-decoration: underline;
+  text-decoration:uppercase;
 }
