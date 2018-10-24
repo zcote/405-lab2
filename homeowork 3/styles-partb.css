@@ -10,8 +10,8 @@ font-size: 1.125rem;
 line-height: 2.8;
 text-align: center;
 background: linear-gradient(to left top, rgba(0, 0, 0, 0.5) , rgba(0, 0, 0, 0.2) 30%, rgba(0, 0, 0, 0));
-background-color: pink;
-color: lightblue;
+background-color: yellow;
+color: lightpink;
 text-shadow: 2px 2px 2px black,
 -2px -2px 2px black;
 border: 1px solid rgb(232, 66, 244);
