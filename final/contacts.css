@@ -29,12 +29,6 @@ html {
   justify-content: space-between;
 }
 
-
-.nav {
- flex: 0 0 50px;
- background-color: red;
-}
-
 .content {
   background-color: green;
   flex: 1;
