@@ -49,15 +49,6 @@ html {
   justify-content: space-around;
 }
 
-.sidebar{
-  background-color: tomato;
-  flex: 0 0 30%;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-around;
-  align-items: center;
-}
-
 .footer {
   flex: 0 0 50px;
   background-color: orange;
